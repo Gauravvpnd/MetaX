@@ -27,9 +27,9 @@
 .hero-gradient {
   background: linear-gradient(
     97.86deg,
-    #a509ff 0%,
-    #34acc7 53.65%,
-    #a134c7 100%
+    #ff9500 0%, 
+    #3498db 53.65%,  
+    #e74c3c 100%  
   );
 }
 
@@ -40,7 +40,7 @@
   top: 0px;
   right: 0px;
 
-  background: #7aebfb;
+  background: #00d395; 
   filter: blur(190px);
 }
 
@@ -59,7 +59,7 @@
   left: 20%;
   top: 5%;
 
-  background: rgba(149, 66, 232, 0.35);
+  background: rgba(232, 115, 149, 0.35);  
   filter: blur(175px);
   transform: rotate(-114.2deg);
 }
@@ -71,7 +71,7 @@
   left: 30%;
   top: 10%;
 
-  background: rgba(45, 72, 152, 0.75);
+  background: rgba(128, 83, 39, 0.75);  
   filter: blur(200px);
   transform: rotate(-53.13deg);
 }
@@ -79,7 +79,7 @@
 .gradient-05 {
   background: linear-gradient(
     180deg,
-    rgba(255, 255, 255, 0.04) 0%,
+    rgba(0, 0, 0, 0.04) 0%,
     rgba(255, 255, 255, 0) 100%
   );
 }
@@ -91,7 +91,7 @@
   left: 0px;
   top: 0px;
 
-  background: #8d39a3;
+  background: #ff69b4;  
   filter: blur(175px);
 }
 
@@ -102,6 +102,6 @@
   left: 37%;
   bottom: 0;
 
-  background: #65c4fa;
+  background: #ffcc29; 
   filter: blur(150px);
 }
